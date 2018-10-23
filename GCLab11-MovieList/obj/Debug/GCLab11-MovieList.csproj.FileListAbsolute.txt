@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\GCLab11-MovieList\GCLab11-MovieList\bin\Debug\GCLab11-MovieList.exe.config
+C:\Users\mhilty\source\repos\GCLab11-MovieList\GCLab11-MovieList\bin\Debug\GCLab11-MovieList.exe
+C:\Users\mhilty\source\repos\GCLab11-MovieList\GCLab11-MovieList\bin\Debug\GCLab11-MovieList.pdb
+C:\Users\mhilty\source\repos\GCLab11-MovieList\GCLab11-MovieList\obj\Debug\GCLab11-MovieList.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\GCLab11-MovieList\GCLab11-MovieList\obj\Debug\GCLab11-MovieList.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\GCLab11-MovieList\GCLab11-MovieList\obj\Debug\GCLab11-MovieList.exe
+C:\Users\mhilty\source\repos\GCLab11-MovieList\GCLab11-MovieList\obj\Debug\GCLab11-MovieList.pdb
